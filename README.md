@@ -16,7 +16,6 @@
 ### 🚀 What I'm Building & Exploring
 - 🔭 **Currently working on:** A Real-Time Pothole Detection system using YOLOv4/YOLOv5.
 - 👯 **Looking to collaborate on:** Open-source AI projects and full-stack hackathons.
-- 🏍️ **Ask me about:** Object detection algorithms, dataless web architectures, or the ergonomics of the Royal Enfield Hunter 350.
 
 ### 🛠️ My Tech Arsenal
 <div align="center">
