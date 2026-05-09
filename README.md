@@ -22,15 +22,7 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,js,react,tailwind,nodejs,git,github,arduino&perline=9" />
 </div>
 
-### 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsmiKatke&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=10000" alt="Asmi's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsmiKatke&theme=tokyonight&hide_border=true&background=0D1117" alt="Asmi's GitHub Streak" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmiKatke&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=10000" alt="Top Languages" />
-</div>
 
 ---
 <div align="center">
