@@ -1,29 +1,38 @@
-# Hi there, I'm Asmi Katke 👋
+<div align="center">
 
-### AI Engineering Student | Full-Stack Developer 
+# Hello there, I'm Asmi Katke! 👋
 
-Welcome to my GitHub! I am a third-year AI Engineering student at UMIT, SNDT University, based in the Mumbai/Thane region. I specialize in bridging the gap between heavy machine learning models (like Computer Vision) and clean, scalable web architectures. 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=AI+Engineering+Student+🧠;Full-Stack+Developer+💻;IoT+%26+Hardware+Enthusiast+⚙️;Building+scalable+solutions+🚀)](https://git.io/typing-svg)
 
-When I am not training YOLO models or building real-time dashboards, you can probably find me researching motorcycling ergonomics and the Royal Enfield Hunter 350. 🏍️
+*Bridging the gap between heavy machine learning models and clean, scalable web architectures.*
 
-## 🚀 What I Do
-- 🧠 **AI & Machine Learning:** Building predictive models, real-time object detection (YOLOv4/v5/v8), and crowd analysis systems.
-- 💻 **Full-Stack Development:** Architecting robust web applications, dataless architectures, and interactive UIs.
-- ⚙️ **IoT & Hardware:** Integrating sensors and edge devices for smart infrastructure and public safety solutions.
-- 🏆 **Hackathons:** Actively competing and building rapid prototypes for real-world problems (InnovateX, Hack the Ghost, Visionari).
+<a href="https://linkedin.com/in/asmi-katke"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:asmi.katke25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-## 🛠️ Tech Stack & Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-## 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/asmi-katke](https://linkedin.com/in/asmi-katke)
-- **Email:** asmi.katke25@gmail.com
+</div>
 
 ---
-*"Building intelligent systems to solve real-world problems."*
+
+### 🚀 What I'm Building & Exploring
+- 🔭 **Currently working on:** A Real-Time Pothole Detection system using YOLOv4/YOLOv5.
+- 👯 **Looking to collaborate on:** Open-source AI projects and full-stack hackathons.
+
+### 🛠️ My Tech Arsenal
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,tailwind,nodejs,git,github,arduino&perline=9" />
+</div>
+
+### 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AsmiKatke&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Asmi's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsmiKatke&theme=tokyonight&hide_border=true&background=0D1117" alt="Asmi's GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmiKatke&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
+<div align="center">
+  <i>"Building intelligent systems to solve real-world problems."</i>
+</div>
