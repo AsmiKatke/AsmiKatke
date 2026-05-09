@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello there, I'm Asmi! 👋
+# Hello there, I'm Asmi Katke! 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=AI+Engineering+Student+🧠;Full-Stack+Developer+💻;IoT+%26+Hardware+Enthusiast+⚙️;Building+scalable+solutions+🚀)](https://git.io/typing-svg)
 
